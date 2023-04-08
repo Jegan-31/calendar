@@ -1,11 +1,11 @@
 import React from "react";
-import MyCalendar from "./calendar";
+import Meeting from "./Meeting";
 //import { Jtable } from "./new";
 
 function App() {
   return (
     <div>
-      <MyCalendar/>
+      <Meeting />
     </div>
   );
 }
